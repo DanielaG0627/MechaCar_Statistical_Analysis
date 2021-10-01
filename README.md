@@ -28,19 +28,19 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 We fail to reject the null hypothesis for the t-tes of the sample data as whole as the p-value is 0.804. The p-value of the individual lot tests is less than 0.5, so we can reject the null hypothesis. 
 
-### Sample data t-test Results
+#### Sample data t-test Results
 
 <img width="516" alt="Screen Shot 2021-09-30 at 9 51 49 PM" src="https://user-images.githubusercontent.com/17945476/135553395-1ec0dd39-cd8e-4a07-bfe6-7b8992a72ceb.png">
 
-### Lot 1 t-test Results
+#### Lot 1 t-test Results
 
 <img width="459" alt="Screen Shot 2021-09-30 at 9 52 15 PM" src="https://user-images.githubusercontent.com/17945476/135553412-8d0a2431-7e3d-4b16-bde2-207528ae3b3c.png">
 
-### Lot 2 t-test Results
+#### Lot 2 t-test Results
 
 <img width="476" alt="Screen Shot 2021-09-30 at 9 52 32 PM" src="https://user-images.githubusercontent.com/17945476/135553431-1c2aa4a2-65fb-411f-83d0-ee3e992e4f9c.png">
 
-### Lot 3 t-test Results
+#### Lot 3 t-test Results
 
 <img width="461" alt="Screen Shot 2021-09-30 at 9 52 50 PM" src="https://user-images.githubusercontent.com/17945476/135553447-1187e097-c2d8-4f9e-b5e1-1fc05b0204d3.png">
 -test Results
